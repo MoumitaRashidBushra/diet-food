@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         resultContainer.innerHTML = ""; // Clear previous results
 
-        fetch("/diet/customFood.json") // Replace with the actual path to your JSON file
+        fetch("/diet/mdell.json")
             .then(response => response.json())
             .then(data => generateRecommendations(data, numberOfRecommendations))
             .catch(error => console.error("Error fetching data:", error));
@@ -40,12 +40,12 @@ document.addEventListener("DOMContentLoaded", function () {
     function getRandomRecommendations(data, numberOfRecommendations) {
         const recommendations = data[Math.floor(Math.random() * data.length)].recFood;
         const allFoods = Object.values(recommendations);
-        shuffleArray(allFoods); // Shuffle array to get random recommendations
+        shuffleArray(allFoods);
 
         return allFoods.slice(0, numberOfRecommendations);
     }
 
-    // Fisher-Yates (Knuth) Shuffle Algorithm
+
     function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));

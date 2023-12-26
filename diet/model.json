@@ -87,7 +87,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "male",
         "age": {
@@ -170,7 +170,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "male",
         "age": {
@@ -395,7 +395,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "female",
         "age": {
@@ -466,7 +466,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "female",
         "age": {
@@ -679,7 +679,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "male",
         "age": {
@@ -750,7 +750,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "male",
         "age": {
@@ -963,7 +963,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "female",
         "age": {
@@ -1034,7 +1034,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "female",
         "age": {
@@ -1247,7 +1247,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "male",
         "age": {
@@ -1318,7 +1318,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "male",
         "age": {
@@ -1531,7 +1531,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "female",
         "age": {
@@ -1602,7 +1602,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "female",
         "age": {
@@ -1815,7 +1815,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "male",
         "age": {
@@ -1886,7 +1886,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "male",
         "age": {
@@ -2099,7 +2099,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "female",
         "age": {
@@ -2170,7 +2170,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "female",
         "age": {
@@ -2383,7 +2383,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "male",
         "age": {
@@ -2454,7 +2454,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "male",
         "age": {
@@ -2667,7 +2667,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "female",
         "age": {
@@ -2738,7 +2738,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "female",
         "age": {
@@ -2951,7 +2951,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "male",
         "age": {
@@ -3022,7 +3022,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "male",
         "age": {
@@ -3235,7 +3235,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "female",
         "age": {
@@ -3306,7 +3306,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "female",
         "age": {
@@ -3519,7 +3519,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "male",
         "age": {
@@ -3590,7 +3590,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "male",
         "age": {
@@ -3803,7 +3803,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "female",
         "age": {
@@ -3874,7 +3874,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "female",
         "age": {
@@ -4087,7 +4087,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "male",
         "age": {
@@ -4158,7 +4158,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "male",
         "age": {
@@ -4371,7 +4371,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "female",
         "age": {
@@ -4442,7 +4442,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "female",
         "age": {
@@ -4655,7 +4655,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "male",
         "age": {
@@ -4726,7 +4726,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "male",
         "age": {
@@ -4939,7 +4939,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "female",
         "age": {
@@ -5010,7 +5010,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "female",
         "age": {
@@ -5223,7 +5223,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "male",
         "age": {
@@ -5294,7 +5294,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "male",
         "age": {
@@ -5507,7 +5507,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "female",
         "age": {
@@ -5578,7 +5578,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "female",
         "age": {
@@ -5791,7 +5791,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "male",
         "age": {
@@ -5862,7 +5862,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "male",
         "age": {
@@ -6075,7 +6075,7 @@
         "bmiRange": "Normal Weight",
         "bmiValue": {
             "min": 18.5,
-            "max": 24.9
+            "max": 24.99
         },
         "gender": "female",
         "age": {
@@ -6146,7 +6146,7 @@
         "bmiRange": "Overweight",
         "bmiValue": {
             "min": 25,
-            "max": 29.9
+            "max": 29.99
         },
         "gender": "female",
         "age": {
@@ -6279,6 +6279,574 @@
                 {
                     "food": "Shrimp and Broccoli Quinoa Bowl",
                     "calories": 300
+                }
+            ]
+        }
+    },
+    {
+        "id": 89,
+        "bmiRange": "Underweight",
+        "bmiValue": {
+            "min": 0,
+            "max": 18.5
+        },
+        "gender": "male",
+        "age": {
+            "min": 61,
+            "max": 100
+        },
+        "meals": {
+            "breakfast": [
+                {
+                    "food": "Avocado Toast",
+                    "calories": 200
+                },
+                {
+                    "food": "Fruit Smoothie Bowl",
+                    "calories": 300
+                },
+                {
+                    "food": "Egg White Omelette",
+                    "calories": 150
+                }
+            ],
+            "lunch": [
+                {
+                    "food": "Quinoa Salad with Chickpeas",
+                    "calories": 350
+                },
+                {
+                    "food": "Grilled Chicken Wrap",
+                    "calories": 300
+                },
+                {
+                    "food": "Greek Yogurt with Berries",
+                    "calories": 200
+                }
+            ],
+            "snacks": [
+                {
+                    "food": "Mixed Nuts",
+                    "calories": 220
+                },
+                {
+                    "food": "Hummus with Veggie Sticks",
+                    "calories": 120
+                },
+                {
+                    "food": "Protein Bar",
+                    "calories": 180
+                }
+            ],
+            "dinner": [
+                {
+                    "food": "Salmon with Quinoa",
+                    "calories": 400
+                },
+                {
+                    "food": "Sweet Potato Fries",
+                    "calories": 180
+                },
+                {
+                    "food": "Steamed Asparagus",
+                    "calories": 50
+                }
+            ]
+        }
+    },
+    {
+        "id": 90,
+        "bmiRange": "Normal Weight",
+        "bmiValue": {
+            "min": 18.5,
+            "max": 24.99
+        },
+        "gender": "male",
+        "age": {
+            "min": 61,
+            "max": 100
+        },
+        "meals": {
+            "breakfast": [
+                {
+                    "food": "Whole Grain Pancakes with Berries",
+                    "calories": 250
+                },
+                {
+                    "food": "Egg and Spinach Breakfast Wrap",
+                    "calories": 300
+                },
+                {
+                    "food": "Fruit Smoothie",
+                    "calories": 200
+                }
+            ],
+            "lunch": [
+                {
+                    "food": "Quinoa Bowl with Grilled Vegetables",
+                    "calories": 350
+                },
+                {
+                    "food": "Chicken Caesar Salad",
+                    "calories": 300
+                },
+                {
+                    "food": "Greek Yogurt Parfait",
+                    "calories": 220
+                }
+            ],
+            "snacks": [
+                {
+                    "food": "Trail Mix",
+                    "calories": 180
+                },
+                {
+                    "food": "Apple Slices with Almond Butter",
+                    "calories": 160
+                },
+                {
+                    "food": "Yogurt with Granola",
+                    "calories": 130
+                }
+            ],
+            "dinner": [
+                {
+                    "food": "Baked Cod with Quinoa",
+                    "calories": 380
+                },
+                {
+                    "food": "Roasted Vegetable Pasta",
+                    "calories": 320
+                },
+                {
+                    "food": "Stuffed Bell Peppers",
+                    "calories": 250
+                }
+            ]
+        }
+    },
+    {
+        "id": 91,
+        "bmiRange": "Overweight",
+        "bmiValue": {
+            "min": 25,
+            "max": 29.99
+        },
+        "gender": "male",
+        "age": {
+            "min": 61,
+            "max": 100
+        },
+        "meals": {
+            "breakfast": [
+                {
+                    "food": "Avocado and Tomato Breakfast Sandwich",
+                    "calories": 280
+                },
+                {
+                    "food": "Protein Smoothie",
+                    "calories": 350
+                },
+                {
+                    "food": "Granola with Greek Yogurt",
+                    "calories": 220
+                }
+            ],
+            "lunch": [
+                {
+                    "food": "Turkey Burger with Sweet Potato Wedges",
+                    "calories": 400
+                },
+                {
+                    "food": "Quinoa and Black Bean Salad",
+                    "calories": 350
+                },
+                {
+                    "food": "Mixed Nuts",
+                    "calories": 200
+                }
+            ],
+            "snacks": [
+                {
+                    "food": "Greek Yogurt with Mixed Berries",
+                    "calories": 220
+                },
+                {
+                    "food": "Carrot Sticks with Hummus",
+                    "calories": 120
+                },
+                {
+                    "food": "Cheese Cubes",
+                    "calories": 160
+                }
+            ],
+            "dinner": [
+                {
+                    "food": "Grilled Salmon with Asparagus",
+                    "calories": 380
+                },
+                {
+                    "food": "Mashed Cauliflower",
+                    "calories": 150
+                },
+                {
+                    "food": "Roasted Sweet Potatoes",
+                    "calories": 200
+                }
+            ]
+        }
+    },
+    {
+        "id": 92,
+        "bmiRange": "Obese",
+        "bmiValue": {
+            "min": 30,
+            "max": 1000
+        },
+        "gender": "male",
+        "age": {
+            "min": 61,
+            "max": 100
+        },
+        "meals": {
+            "breakfast": [
+                {
+                    "food": "Vegetable and Cheese Omelette",
+                    "calories": 300
+                },
+                {
+                    "food": "Mixed Berry Smoothie Bowl",
+                    "calories": 350
+                },
+                {
+                    "food": "Whole Wheat Pancakes with Maple Syrup",
+                    "calories": 280
+                }
+            ],
+            "lunch": [
+                {
+                    "food": "Turkey and Avocado Wrap",
+                    "calories": 400
+                },
+                {
+                    "food": "Vegetarian Burrito Bowl",
+                    "calories": 350
+                },
+                {
+                    "food": "Chicken Alfredo Pasta",
+                    "calories": 450
+                }
+            ],
+            "snacks": [
+                {
+                    "food": "Mixed Nuts",
+                    "calories": 220
+                },
+                {
+                    "food": "Yogurt Parfait",
+                    "calories": 180
+                },
+                {
+                    "food": "Granola Bar",
+                    "calories": 150
+                }
+            ],
+            "dinner": [
+                {
+                    "food": "Grilled Vegetable Stir-Fry",
+                    "calories": 320
+                },
+                {
+                    "food": "Salmon with Quinoa",
+                    "calories": 380
+                },
+                {
+                    "food": "Shrimp and Broccoli Stir-Fry",
+                    "calories": 300
+                }
+            ]
+        }
+    },
+    {
+        "id": 93,
+        "bmiRange": "Underweight",
+        "bmiValue": {
+            "min": 0,
+            "max": 18.5
+        },
+        "gender": "female",
+        "age": {
+            "min": 61,
+            "max": 100
+        },
+        "meals": {
+            "breakfast": [
+                {
+                    "food": "Yogurt Parfait with Granola",
+                    "calories": 220
+                },
+                {
+                    "food": "Mixed Berry Smoothie",
+                    "calories": 280
+                },
+                {
+                    "food": "Almond Butter Toast",
+                    "calories": 150
+                }
+            ],
+            "lunch": [
+                {
+                    "food": "Quinoa Salad with Avocado",
+                    "calories": 300
+                },
+                {
+                    "food": "Vegetarian Wrap",
+                    "calories": 250
+                },
+                {
+                    "food": "Hummus with Veggie Sticks",
+                    "calories": 120
+                }
+            ],
+            "snacks": [
+                {
+                    "food": "Trail Mix",
+                    "calories": 180
+                },
+                {
+                    "food": "Greek Yogurt with Berries",
+                    "calories": 220
+                },
+                {
+                    "food": "Baby Carrots",
+                    "calories": 50
+                }
+            ],
+            "dinner": [
+                {
+                    "food": "Stir-Fried Tofu with Vegetables",
+                    "calories": 350
+                },
+                {
+                    "food": "Chickpea Salad",
+                    "calories": 250
+                },
+                {
+                    "food": "Sweet Potato Soup",
+                    "calories": 180
+                }
+            ]
+        }
+    },
+    {
+        "id": 94,
+        "bmiRange": "Normal Weight",
+        "bmiValue": {
+            "min": 18.5,
+            "max": 24.99
+        },
+        "gender": "female",
+        "age": {
+            "min": 61,
+            "max": 100
+        },
+        "meals": {
+            "breakfast": [
+                {
+                    "food": "Smoothie Bowl with Fresh Fruits",
+                    "calories": 280
+                },
+                {
+                    "food": "Whole Grain Toast with Avocado",
+                    "calories": 200
+                },
+                {
+                    "food": "Chia Pudding",
+                    "calories": 150
+                }
+            ],
+            "lunch": [
+                {
+                    "food": "Grilled Chicken Salad",
+                    "calories": 350
+                },
+                {
+                    "food": "Brown Rice Bowl with Tofu",
+                    "calories": 300
+                },
+                {
+                    "food": "Caprese Sandwich",
+                    "calories": 250
+                }
+            ],
+            "snacks": [
+                {
+                    "food": "Apple Slices with Peanut Butter",
+                    "calories": 160
+                },
+                {
+                    "food": "Yogurt with Granola",
+                    "calories": 130
+                },
+                {
+                    "food": "Cheese Cubes",
+                    "calories": 160
+                }
+            ],
+            "dinner": [
+                {
+                    "food": "Baked Salmon with Quinoa",
+                    "calories": 380
+                },
+                {
+                    "food": "Roasted Vegetable Pasta",
+                    "calories": 320
+                },
+                {
+                    "food": "Stuffed Bell Peppers",
+                    "calories": 250
+                }
+            ]
+        }
+    },
+    {
+        "id": 95,
+        "bmiRange": "Overweight",
+        "bmiValue": {
+            "min": 25,
+            "max": 29.99
+        },
+        "gender": "female",
+        "age": {
+            "min": 61,
+            "max": 100
+        },
+        "meals": {
+            "breakfast": [
+                {
+                    "food": "Green Smoothie with Spinach",
+                    "calories": 250
+                },
+                {
+                    "food": "Whole Wheat Pancakes with Berries",
+                    "calories": 300
+                },
+                {
+                    "food": "Avocado Toast",
+                    "calories": 180
+                }
+            ],
+            "lunch": [
+                {
+                    "food": "Turkey and Veggie Wrap",
+                    "calories": 320
+                },
+                {
+                    "food": "Quinoa Bowl with Grilled Chicken",
+                    "calories": 280
+                },
+                {
+                    "food": "Greek Salad",
+                    "calories": 200
+                }
+            ],
+            "snacks": [
+                {
+                    "food": "Mixed Nuts",
+                    "calories": 200
+                },
+                {
+                    "food": "Carrot Sticks with Hummus",
+                    "calories": 120
+                },
+                {
+                    "food": "Yogurt Parfait",
+                    "calories": 180
+                }
+            ],
+            "dinner": [
+                {
+                    "food": "Baked Cod with Asparagus",
+                    "calories": 350
+                },
+                {
+                    "food": "Cauliflower Fried Rice",
+                    "calories": 250
+                },
+                {
+                    "food": "Roasted Brussels Sprouts",
+                    "calories": 120
+                }
+            ]
+        }
+    },
+    {
+        "id": 96,
+        "bmiRange": "Obese",
+        "bmiValue": {
+            "min": 30,
+            "max": 1000
+        },
+        "gender": "female",
+        "age": {
+            "min": 61,
+            "max": 100
+        },
+        "meals": {
+            "breakfast": [
+                {
+                    "food": "Veggie Omelette with Cheese",
+                    "calories": 300
+                },
+                {
+                    "food": "Mixed Berry Smoothie Bowl",
+                    "calories": 350
+                },
+                {
+                    "food": "Whole Wheat Pancakes with Maple Syrup",
+                    "calories": 280
+                }
+            ],
+            "lunch": [
+                {
+                    "food": "Grilled Chicken Salad",
+                    "calories": 350
+                },
+                {
+                    "food": "Quinoa Bowl with Mixed Vegetables",
+                    "calories": 300
+                },
+                {
+                    "food": "Avocado Toast",
+                    "calories": 180
+                }
+            ],
+            "snacks": [
+                {
+                    "food": "Stuffed Dates with Almonds",
+                    "calories": 120
+                },
+                {
+                    "food": "Yogurt with Granola",
+                    "calories": 130
+                },
+                {
+                    "food": "Cheese Cubes",
+                    "calories": 160
+                }
+            ],
+            "dinner": [
+                {
+                    "food": "Stir-Fried Tofu with Vegetables",
+                    "calories": 350
+                },
+                {
+                    "food": "Cauliflower Fried Rice",
+                    "calories": 250
+                },
+                {
+                    "food": "Roasted Sweet Potatoes",
+                    "calories": 200
                 }
             ]
         }
